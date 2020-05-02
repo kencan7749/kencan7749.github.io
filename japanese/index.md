@@ -62,7 +62,7 @@ A tool for generating image/video which a target unit/channel's activation is hi
 - Git: よく使用
 - PostgreSQL: たまに使用
 
-### Corsework
+### Coursework
 - 機械学習
 - 統計学
 - 情報理論
