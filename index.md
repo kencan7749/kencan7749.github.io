@@ -6,6 +6,22 @@
 
 - E-mail: shirakawa.ken.38w[at]kyoto-u.ac.jp <br>
 
+# Education
+### Kyoto University, Kyoto Japan
+
+- Ph.D student in Neuroinfomatics, Graduate School of Informatics, Kamitani Lab.
+
+- M.E. in Neuroinfomatics, Graduate School of Informatics, March 2020<br>
+"動画知覚の脳情報デコーディング" <br>
+Advisor; Professor Yukiyasu Kamitani
+
+- B.E. in Cognitive and Information Sciences, Faculty of Integrated Human Studies, March 2018<br>
+"重み付け結合法を用いた脳情報デコーディング" <br>
+Advisor; Professor Yukiyasu Kamitani
+
+# Work
+- [pytorch_cnn_preferred](https://github.com/kencan7749/pytorch_cnn_preferred)
+- [Instagram](https://www.instagram.com/k__shirakawa/)
 
 # Skills 
 ### Language
@@ -24,7 +40,7 @@
 - R: Basic
 - HTML, CSS, Javascript: Basic
 
-##### Engine or framework
+### Engine or framework
 - Pytorch: Familiar
 - Keras: Familiar
 - Chainer: Familiar
@@ -33,7 +49,7 @@
 - Node.js: Basic
 - Express: Basic
 
-##### Tool
+### Tool
 - Git: Fluent
 - PostgreSQL: Basic
 
@@ -44,23 +60,6 @@
 - Computational neuroscience
 - Cognitive neuroscience
 
-# Work
-- [pytorch_cnn_preferred](https://github.com/kencan7749/pytorch_cnn_preferred)
-- [Instagram](https://www.instagram.com/k__shirakawa/)
-
-
-# Education
-### Kyoto University, Kyoto Japan
-
-- Ph.D student in Neuroinfomatics, Graduate School of Informatics, Kamitani Lab.
-
-- M.E. in Neuroinfomatics, Graduate School of Informatics, March 2020<br>
-"動画知覚の脳情報デコーディング" <br>
-Advisor; Professor Yukiyasu Kamitani
-
-- B.E. in Cognitive and Information Sciences, Faculty of Integrated Human Studies, March 2018<br>
-"重み付け結合法を用いた脳情報デコーディング" <br>
-Advisor; Professor Yukiyasu Kamitani
 
 # Teaching experience
 
