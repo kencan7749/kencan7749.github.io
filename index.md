@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# About
+Name: Ken Shirakawa <br>
+Position: Ph.D student in Kyoto university (Kamitani lab)<br>
+Keywords: Brain decoding, fMRI, Deep neural etwork, Visual motion, Machine learning, Computer vision, Computational neuroscience, Neuroinfomatics<br>
+Hobbies: Generative art,Programming, Playing and watchgin basketball (NBA), Listening music (Hip hop, Jazz, R&B,and Black music) <br>
 
-You can use the [editor on GitHub](https://github.com/kencan7749/kencan7749.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+E-mail: shirakawa.ken.38w[at]kyoto-u.ac.jp <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Education
+### Kyoto University, Kyoto Japan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ph.D student in Neuroinfomatics, Graduate School of Informatics, Kamitani Lab.
 
-```markdown
-Syntax highlighted code block
+M.E. in Neuroinfomatics, Graduate School of Informatics, March 2020<br>
+"動画知覚の脳情報デコーディング" <br>
+Advisor; Professor Yukiyasu Kamitani
 
-# Header 1
-## Header 2
-### Header 3
+B.E. in Cognitive and Information Sciences, Faculty of Integrated Human Studies, March 2018<br>
+"重み付け結合法を用いた脳情報デコーディング" <br>
+Advisor; Professor Yukiyasu Kamitani
 
-- Bulleted
-- List
+# Skills 
+### Language
+- Japanese: Native
+- English:  Bussiness
+- Spanish:  Basic
 
-1. Numbered
-2. List
+### Programming language
+- Python: Fluent
+- Matlab: Familiar
+- R: Basic
+- HTML, CSS, Javascript: Basic
 
-**Bold** and _Italic_ and `Code` text
+### Corsework
+- Machine learning
+- Statistics
+- Information theory
+- Computational neuroscience
+- Cognitive neuroscience
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Teaching experience
 
-### Jekyll Themes
+### Teaching assistant in the university:
+- 2017.04-2018.01: Teaching assistant of "Neuroinformatcs"
+- 2018.04-2018.07: Teaching assistant of "Introduction of Statistics"
+- 2019.04-2019.07: Teaching assistant of "Introduction of Statistics"
+- 2019.04-2020.01: Teaching assistant of "Neuroinformatcs"
+- 2020.04-present: Teaching assistant of "Introduction of Statistics"
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kencan7749/kencan7749.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Teaching assistant outside the uinversity:
+- 2018.03: Teaching assistant of 脳科学若手の会春の合宿 "脳情報のコーディングとデコーディング"
+- 2018.04-2018.08: Private tutor of python and machine learning
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
