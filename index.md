@@ -1,3 +1,6 @@
+![Image](Img_profile.jpg)
+
+
 # About
 - Name: Ken Shirakawa 
 - Position: Ph.D student in Kyoto university (Kamitani lab)<br>
