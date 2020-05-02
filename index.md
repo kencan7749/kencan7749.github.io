@@ -1,24 +1,11 @@
 # About
-Name: Ken Shirakawa <br>
-Position: Ph.D student in Kyoto university (Kamitani lab)<br>
-Keywords: Brain decoding, fMRI, Deep neural etwork, Visual motion, Machine learning, Computer vision, Computational neuroscience, Neuroinfomatics<br>
-Hobbies: Generative art,Programming, Playing and watchgin basketball (NBA), Listening music (Hip hop, Jazz, R&B,and Black music) <br>
+- Name: Ken Shirakawa 
+- Position: Ph.D student in Kyoto university (Kamitani lab)<br>
+- Keywords: Brain decoding, fMRI, Deep neural etwork, Visual motion, Machine learning, Computer vision, Computational neuroscience, Neuroinfomatics<br>
+- Hobbies: Generative art,Programming, Playing and watchgin basketball (NBA), Listening music (Hip hop, Jazz, R&B,and Black music) <br>
 
-E-mail: shirakawa.ken.38w[at]kyoto-u.ac.jp <br>
+- E-mail: shirakawa.ken.38w[at]kyoto-u.ac.jp <br>
 
-
-# Education
-### Kyoto University, Kyoto Japan
-
-Ph.D student in Neuroinfomatics, Graduate School of Informatics, Kamitani Lab.
-
-M.E. in Neuroinfomatics, Graduate School of Informatics, March 2020<br>
-"動画知覚の脳情報デコーディング" <br>
-Advisor; Professor Yukiyasu Kamitani
-
-B.E. in Cognitive and Information Sciences, Faculty of Integrated Human Studies, March 2018<br>
-"重み付け結合法を用いた脳情報デコーディング" <br>
-Advisor; Professor Yukiyasu Kamitani
 
 # Skills 
 ### Language
@@ -26,11 +13,29 @@ Advisor; Professor Yukiyasu Kamitani
 - English:  Bussiness
 - Spanish:  Basic
 
+### OS
+- Mac: Fluent
+- Linux: Familiar
+- Windows: basic
+
 ### Programming language
 - Python: Fluent
 - Matlab: Familiar
 - R: Basic
 - HTML, CSS, Javascript: Basic
+
+##### Engine or framework
+- Pytorch: Familiar
+- Keras: Familiar
+- Chainer: Familiar
+- Tensorflow: Basic
+- Pycharm: Familiar
+- Node.js: Basic
+- Express: Basic
+
+##### Tool
+- Git: Fluent
+- PostgreSQL: Basic
 
 ### Corsework
 - Machine learning
@@ -39,6 +44,23 @@ Advisor; Professor Yukiyasu Kamitani
 - Computational neuroscience
 - Cognitive neuroscience
 
+# Work
+- [pytorch_cnn_preferred](https://github.com/kencan7749/pytorch_cnn_preferred)
+- [Instagram](https://www.instagram.com/k__shirakawa/)
+
+
+# Education
+### Kyoto University, Kyoto Japan
+
+- Ph.D student in Neuroinfomatics, Graduate School of Informatics, Kamitani Lab.
+
+- M.E. in Neuroinfomatics, Graduate School of Informatics, March 2020<br>
+"動画知覚の脳情報デコーディング" <br>
+Advisor; Professor Yukiyasu Kamitani
+
+- B.E. in Cognitive and Information Sciences, Faculty of Integrated Human Studies, March 2018<br>
+"重み付け結合法を用いた脳情報デコーディング" <br>
+Advisor; Professor Yukiyasu Kamitani
 
 # Teaching experience
 
