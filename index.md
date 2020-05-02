@@ -1,4 +1,6 @@
 
+[日本語版](./japanese/index.md)
+
 # About
 - Name: Ken Shirakawa 
 - Position: Ph.D student in Kyoto university (Kamitani lab)<br>
