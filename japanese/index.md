@@ -77,12 +77,15 @@ A tool for generating image/video which a target unit/channel's activation is hi
 - 2018年04月-2018年07月: 一般教養科目 "統計入門" TA
 - 2019年04月-2019年07月: 一般教養科目 "統計入門" TA
 - 2019年04月-2020年01月: 専門科目 "脳情報学" TA
-- 2020年04月-現在: 一般教養科目 "統計入門" TA
+- 2020年04月-2020年07月: 一般教養科目 "統計入門" TA
+- 2021年04月-現在: 一般教養科目 "統計入門" TA
+- 2021年04月-現在: 専門科目 "脳情報学" TA
 
 
 ### Teaching assistant outside the uinversity:
 - 2018年03月: 脳科学若手の会春の合宿 "脳情報のコーディングとデコーディング" TA
 - 2018年04月-2018年08月: python と機械学習の家庭教師
+- 2021年03月 18–19日: "人を知る人工知能講座: セッション8 脳情報学"
 
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/kencan7749?ref_src=twsrc%5Etfw">Tweets by kencan7749</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
