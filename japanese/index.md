@@ -78,8 +78,8 @@ A tool for generating image/video which a target unit/channel's activation is hi
 - 2019年04月-2019年07月: 一般教養科目 "統計入門" TA
 - 2019年04月-2020年01月: 専門科目 "脳情報学" TA
 - 2020年04月-2020年07月: 一般教養科目 "統計入門" TA
-- 2021年04月-現在: 一般教養科目 "統計入門" TA
-- 2021年04月-現在: 専門科目 "脳情報学" TA
+- 2021年04月-2021年07月: 一般教養科目 "統計入門" TA
+- 2021年04月-2021年11月: 専門科目 "脳情報学" TA
 
 
 ### Teaching assistant outside the uinversity:
