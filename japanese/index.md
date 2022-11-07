@@ -29,7 +29,6 @@ A tool for generating image/video which a target unit/channel's activation is hi
 
 - [Instagram](https://www.instagram.com/k__shirakawa/)
 上記のツールを使って生成した画像を投稿するアカウント
-
 <!-- SnapWidget -->
 <iframe src="https://snapwidget.com/embed/1015653" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
 
