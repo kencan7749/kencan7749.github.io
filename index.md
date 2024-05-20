@@ -4,7 +4,7 @@
 # About
 - Name: Ken Shirakawa 
 - Position: Ph.D. student at Kyoto University (Kamitani lab)<br>
-- Keywords: Brain decoding, fMRI, Deep neural network, Visual motion, Machine learning, Computer vision, Computational neuroscience, Neuroinfomatics<br>
+- Keywords: Brain decoding, Visual image reconstruction, Methodology, fMRI, Deep neural network, Artificial intelligence <br>
 - Hobbies: Listening to music (Hip hop, Jazz, R&B, and Black music), watching basketball (NBA), Taking Spa, Generative art, Programming <br>
 
 - E-mail: shirakawaken0118@gmail.com <br>
