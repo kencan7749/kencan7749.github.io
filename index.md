@@ -39,6 +39,10 @@ Advisor: Professor Yukiyasu Kamitani
   - Period: April 2022 - March 2024
   - Description: I aim to develop a movie reconstruction algorithm from human fMRI activity. I designed data collection, developing several movie reconstruction algorithms and evaluation metrics. I presented the results at various symposiums or oral presentations in Japan.
 
+- Parttime worker at Tier4 company
+  - Job description: Developing eyes for autonomous driving
+  - Period: September 2020 - March 2024
+  - Description: Tier4 is a Japanese deep-tech company that develops open-source autonomous driving software. I joined this company as a part-time job and build a DNN model and learn how to use or implement open-source software (OSS).
   
 - Research intern
   - Research title: "Toward building multi-modal voice conversion model" supported by Dr. Kameoka at  NTT Communication Science Laboratories, Kanagawa, Japan
