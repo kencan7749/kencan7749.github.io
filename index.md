@@ -24,29 +24,35 @@ Advisor: Professor Yukiyasu Kamitani
 
 # RESEARCH ACHIEVEMENT
 - Spurious reconstruction from brain activity
-
-  Authors: Ken Shirakawa, Yoshihiro Nagano, Misato Tanaka, Shuntaro C. Aoki, Kei Majima, Yusuke Muraki, Yukiyasu Kamitani
-
-  Preprint: ArXiv:2405.10078(https://arxiv.org/abs/2405.10078)
+  - Authors: Ken Shirakawa, Yoshihiro Nagano, Misato Tanaka, Shuntaro C. Aoki, Kei Majima, Yusuke Muraki, Yukiyasu Kamitani
+  - Year: 2024, May
+  - Preprint: ArXiv:2405.10078(https://arxiv.org/abs/2405.10078)
+- Critical assessment of generative AI methods and natural image datasets for visual image reconstruction from brain activity
+  - Authors: Ken Shirakawa, Misato Tanaka, Shuntaro C. Aoki, Kei Majima, Yukiyasu Kamitani
+  - Year: 2023, July
+  - OSF project: https://osf.io/nmfc5/
+  
 
 # Work experience
 - Research Fellowship for Young Scientists (JSPS DC2)
-  - Research title "Developing movie reconstruction from human brain activity"
+  - Research title: "Developing movie reconstruction from human brain activity"
   - Period: April 2022 - March 2024
-  - I aim to develop a movie reconstruction algorithm from human fMRI activity. I designed data collection, developing several movie reconstruction algorithms and evaluation metrics. I presented the results at various symposiums or oral presentations in Japan.
+  - Description: I aim to develop a movie reconstruction algorithm from human fMRI activity. I designed data collection, developing several movie reconstruction algorithms and evaluation metrics. I presented the results at various symposiums or oral presentations in Japan.
 
   
 - Research intern
-  - Research title "Toword building multi-modal voice conversion model" supported by Dr. Kameoka at  NTT Communication Science Laboratories, Kanagawa, Japan
+  - Research title: "Toward building multi-modal voice conversion model" supported by Dr. Kameoka at  NTT Communication Science Laboratories, Kanagawa, Japan
   - Period: August 2018 - September 2018 
-  - I worked on developing voice conversion methods. I tried to convert speech into a voice that matches an input face image and generates a face image that matches the voice of the input speech by Deep neural network. My work was just preliminary, but this project was submitted to arXiv ("Crossmodal Voice Conversion" https://arxiv.org/abs/1904.04540)
+  - Description: I worked on developing voice conversion methods. I tried to convert speech into a voice that matches an input face image and generates a face image that matches the voice of the input speech by a Deep neural network. My work was just preliminary, but this project was submitted to arXiv ("Crossmodal Voice Conversion" https://arxiv.org/abs/1904.04540)
 
 - Misc
   - [pytorch_cnn_preferred](https://github.com/kencan7749/pytorch_cnn_preferred)
+    - Year: 2018
     - A pytorch tool for generating image/video in which a target unit/channel's activation is high was developed in my master period.
 
   - Intern job
-    - I worked on New business planning at Works Applications Co., Ltd., during summer vacation.
+    - Year: 2016
+    - Description: I worked on New business planning at Works Applications Co., Ltd., during summer vacation.
 
 # ArtWork
 
